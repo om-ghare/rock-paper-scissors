@@ -1,3 +1,9 @@
+<script type="text/javascript">
+   if (window.location.protocol !== 'https:') {
+      window.location.href = 'https://' + window.location.hostname + window.location.pathname + window.location.search;
+   }
+</script>
+
 let userScore = 0;
 let compScore = 0;
 

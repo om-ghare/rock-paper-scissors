@@ -22,11 +22,6 @@ A fun and interactive **Rock Paper Scissors Game** built with **HTML**, **CSS**,
 
 ---
 
-## Demo
-Try the live demo: [Rock Paper Scissors Game](#) *(Add link if hosted on GitHub Pages)*
-
----
-
 ## Technologies Used
 - **HTML**: Structure of the game.
 - **CSS**: Styling and responsiveness.

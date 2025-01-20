@@ -34,3 +34,9 @@ A fun and interactive **Rock Paper Scissors Game** built with **HTML**, **CSS**,
    ```bash
    git clone https://github.com/om-ghare/rock-paper-scissors.git
 
+2. Navigate to the project directory:
+   ```bash
+   cd tic-tac-toe
+
+3. Open the ``` index.html ``` file in your browser to start playing the game. 🌐
+

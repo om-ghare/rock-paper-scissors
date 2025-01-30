@@ -29,6 +29,9 @@ A fun and interactive **Rock Paper Scissors Game** built with **HTML**, **CSS**,
 
 ---
 
+## Try Demo
+Try the live demo: [Rock Paper Scissors Game](https://om-ghare.github.io/rock-paper-scissors/)
+
 ## Setup Instructions
 1. Clone the repository:
    ```bash
